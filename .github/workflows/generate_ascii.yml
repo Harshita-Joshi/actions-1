@@ -8,9 +8,6 @@ jobs:
         - name: Checkout repo
           uses: actions/checkout@v4
 
-        - name: Update indexes
-          run: sudo apt-get update
-
         - name: Install cowsay program
           run: sudo apt-get install cowsay -y
 
