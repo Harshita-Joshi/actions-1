@@ -2,3 +2,4 @@
 GitHub Actions practice repo
 
 #A small change
+#Another small change
